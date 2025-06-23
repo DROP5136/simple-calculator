@@ -12,7 +12,7 @@ A lightweight and responsive calculator built using HTML, CSS, and JavaScript. T
 
 ## Project Structure
 
-calculator/
+simple-calculator/
 
 ├── index.html # HTML layout
 
