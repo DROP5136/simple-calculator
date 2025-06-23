@@ -13,8 +13,11 @@ A lightweight and responsive calculator built using HTML, CSS, and JavaScript. T
 ## Project Structure
 
 calculator/
+
 ├── index.html # HTML layout
+
 ├── calci.css # Styles and layout
+
 └── calci.js # Calculator logic
 
 ## Getting Started
@@ -29,3 +32,25 @@ To run the project locally:
 2.Open index.html in any web browser.
 
 No build tools or dependencies are required.
+
+
+## Live Demo
+https://DROP5136.github.io/simple-calculator
+
+## Possible Enhancements
+1.Keyboard support for input
+
+2.Backspace/delete functionality
+
+3.Theme toggle (light/dark mode)
+
+4.Chained operations support
+
+5.Calculation history panel
+
+## Author
+Lakshay Batra
+
+Email: batralakshay16@gmail.com
+
+GitHub: https://github.com/DROP5136
