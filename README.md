@@ -48,6 +48,9 @@ https://DROP5136.github.io/simple-calculator
 
 5.Calculation history panel
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
 ## Author
 Lakshay Batra
 
