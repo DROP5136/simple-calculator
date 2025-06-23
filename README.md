@@ -35,7 +35,7 @@ No build tools or dependencies are required.
 
 
 ## Live Demo
-https://DROP5136.github.io/simple-calculator
+https://drop5136.github.io/simple-calculator
 
 ## Possible Enhancements
 1.Keyboard support for input
